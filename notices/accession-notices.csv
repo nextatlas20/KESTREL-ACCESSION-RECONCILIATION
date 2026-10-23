@@ -1,0 +1,11 @@
+notice_id,accession_id,reported_at,action,collection,shelf,condition,note
+AN-001,KA-103,2141-11-03T09:00:00Z,MOVE,Industry,C-02,,Shifted beside furnace plans
+AN-002,KA-101,2141-11-05T10:00:00Z,CONDITION,,,FRAGILE,Cover hinge separated
+AN-003,KA-105,2141-11-06T08:30:00Z,WITHDRAW,,,,Transferred to coastal archive
+AN-004,KA-105,2141-11-07T12:00:00Z,MOVE,Natural History,A-01,,Attempted shelf correction
+AN-005,KA-104,2141-11-08T14:00:00Z,CONDITION,,,SOUND,Rebound volume cleared review
+AN-006,KA-106,2141-11-09T09:00:00Z,CONDITION,,,REPAIR,Unregistered item report
+AN-007,KA-102,2141-11-10T11:00:00Z,MOVE,Botany,A-09,,Moved to humidity-controlled bay
+AN-008,KA-103,2141-12-01T00:00:00Z,CONDITION,,,REPAIR,After-cutoff assessment
+AN-009,KA-102,2141-11-12T09:00:00Z,CONDITION,,,REPAIR,Duplicate record one
+AN-009,KA-102,2141-11-13T09:00:00Z,CONDITION,,,SOUND,Duplicate record two
